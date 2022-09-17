@@ -1,0 +1,57 @@
+{
+    "name": "Bored Ape Anatomy Solana #131",
+    "symbol": "BAASC",
+    "description": "Bored Ape Anatomy Solana Club is a collection of 660 anatomical mortal apes dissected through the organs. Explore what your ape is really made of inside out. Not affiliated with BAYC / MAYC. We deconstructed the traits from BAYC apes and created a completely different & unique combination of ape and added our anatomical element.",
+    "seller_fee_basis_points": 1000,
+    "image": "https://raw.githubusercontent.com/julesbsz/baasc/main/%20131.png",
+    "external_url": "https://boredapeanatomysolanaclub.com",
+    "attributes": [
+        {
+            "trait_type": "Skeleton",
+            "value": "Emerald"
+        },
+        {
+            "trait_type": "Theeth",
+            "value": "White"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Orange Hat"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/julesbsz/baasc/main/%20131.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "4SQinc4Ay21R6nNrNkBYFYmdosPCDQoBz69oguRPW6rc",
+                "share": 70
+            },
+            {
+                "address": "9FUspd7K5J1xRQiMjriHvhTdjogoDbnNrQkA9UDGrTTL",
+                "share": 10
+            },
+            {
+                "address": "3d8Ei79rfJhXMtiS7hoqKCCCbatbdr8JBuftgdPXcgJD",
+                "share": 10
+            },
+            {
+                "address": "7C1pSUgdUoCBUc2fhkprY1Q64NjU2vfzNgdtKuuGNFAF",
+                "share": 10
+            }
+        ]
+    }
+}
